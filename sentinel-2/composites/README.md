@@ -17,7 +17,7 @@ Custom script: **return [B04, B03, B02];**
 ### RGB (8,4,3)
 
 False color imagery is displayed in a combination of standard near infra-red, red and green band. 
-False color composite using near infrared, red and green bands is very popular. It is most commonly used to assess plant density and healht, as plants reflect near infrared and green light, while absorbing red. Since they reflect more near infrared than green, plant-covered land appears deep red. Denser plant growth is darker red. Cities and exposed ground are gray or tan, and water appears blue or black.
+False color composite using near infrared, red and green bands is very popular. It is most commonly used to assess plant density and health, as plants reflect near infrared and green light, while absorbing red. Since they reflect more near infrared than green, plant-covered land appears deep red. Denser plant growth is darker red. Cities and exposed ground are gray or tan, and water appears blue or black.
 
 Custom script: **return [B08, B04, B03];**
 
